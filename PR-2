@@ -15,7 +15,7 @@
   </head>
   <body>
     <header>
-      <div ><img src="slike/800px-Factorio-logo.png" alt="Factorio" class="Factorio"></div>
+      <div ><img src="https://raw.githubusercontent.com/Josip2201/Projektni-2/main/Slike/Factorio-logo.png" class="Factorio"></div>
       <nav>
         <ul>
           <li><a href="#">Home</a></li>
