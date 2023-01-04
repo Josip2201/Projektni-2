@@ -1,0 +1,30 @@
+<!DOCTYPE HTML>
+<html lang="hr">
+  <head>
+    <title>Factorio</title>
+		<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+		<meta name="description" content="">
+		<meta name="keywords" content="">
+		<meta name="author" content="Josip Širanović">
+		<meta name="viewport" content="width=device-width, initial-scale=1">
+		<link rel="shortcut icon" type="images/x-icon" href="https://tinyurl.com/facticon">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Saira+Stencil+One&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="css/css-2.css"/>
+  </head>
+  <body>
+    <header>
+      <div ><img src="slike/800px-Factorio-logo.png" alt="Factorio" class="Factorio"></div>
+      <nav>
+        <ul>
+          <li><a href="#">Home</a></li>
+          <li><a href="#">News</a></li>
+          <li><a href="#">Contact</a></li>
+          <li><a href="#">About</a></li>
+          <li><a href="#">Gallery</a></li>
+        </ul>
+      </nav>
+    </header>
+  </body>
+</html>
